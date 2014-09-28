@@ -1,0 +1,13 @@
+*~
+*.bak
+*.orig
+*.pyc
+*.log
+cache/
+databases/*
+errors/
+sessions/
+private//
+uploads/*
+.hg/
+.hgignore
